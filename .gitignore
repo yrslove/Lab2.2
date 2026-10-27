@@ -1,0 +1,10 @@
+/build/
+*.o
+*.a
+*.so
+*.d
+*.out
+*.exe
+*.csv
+*.swp
+*~
